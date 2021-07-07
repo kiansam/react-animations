@@ -1,3 +1,4 @@
+React-animations
 [![Maintenance Status][maintenance-image]](#maintenance-status)
 
 # react-animations
